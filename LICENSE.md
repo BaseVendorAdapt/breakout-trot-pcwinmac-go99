@@ -1,4 +1,4 @@
-# 
+# 即时 breakout trading bot 预设 Mac OS版 | 官方 breakout trading bot 预设 PC Windows版。集成 私钥安全 和 逐仓模式支持，跨平台性能最大化。
 
 
 
